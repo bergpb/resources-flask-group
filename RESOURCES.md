@@ -1,5 +1,7 @@
 ## Flask 🇧🇷 - Resources
 
+## Flask 🇧🇷 - Resources
+
 - Curso Python e Flask do canal Codeshow:
 [https://www.twitch.tv/collections/gRe7fj7iGBZJMQ?filter=collections](https://www.twitch.tv/collections/gRe7fj7iGBZJMQ?filter=collections)
 
@@ -20,3 +22,6 @@
 
 - Playlist "Learning Flask" do Julian Nash:
 [https://www.youtube.com/watch?v=BUmUV8YOzgM&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L](https://www.youtube.com/watch?v=BUmUV8YOzgM&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L)
+
+- Playlist Flask Tutorials do Corey Schafer
+[https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
