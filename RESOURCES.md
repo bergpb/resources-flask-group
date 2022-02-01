@@ -1,7 +1,5 @@
 ## Flask 🇧🇷 - Resources
 
-## Flask 🇧🇷 - Resources
-
 - Curso Python e Flask do canal Codeshow:
 [https://www.twitch.tv/collections/gRe7fj7iGBZJMQ?filter=collections](https://www.twitch.tv/collections/gRe7fj7iGBZJMQ?filter=collections)
 
