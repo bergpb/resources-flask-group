@@ -3,9 +3,6 @@
 - Curso Python e Flask do canal Codeshow:
 [https://www.twitch.tv/collections/gRe7fj7iGBZJMQ?filter=collections](https://www.twitch.tv/collections/gRe7fj7iGBZJMQ?filter=collections)
 
-- Playlist de Flask no canal Spacedevs:
-[https://www.youtube.com/watch?v=kilN6eLTjIQ&list=PLZ8sofC1-EAao4jIJm0yK4DQgzmH6cTEN](https://www.youtube.com/watch?v=kilN6eLTjIQ&list=PLZ8sofC1-EAao4jIJm0yK4DQgzmH6cTEN)
-
 - Playlist "Curso de Flask" da Júlia Rizza:
 [https://www.youtube.com/playlist?list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX](https://www.youtube.com/playlist?list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX)
 
